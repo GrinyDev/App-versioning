@@ -1,15 +1,15 @@
 {
-  "versionName": "1.2.6",
-  "versionCode": 126,
+  "versionName": "1.2.6.1",
+  "versionCode": 1261,
   "updateTitle": "发现新版本",
   "updateContent": "修复了一些已知的问题 🌚",
-  "downloadUrl": "https://...",
+  "downloadUrl": "https://msdpy.lanzouv.com/ivXmG3jm0xsb",
   "forceUpdate": false,
   "notification": {
     "enabled": true,
-    "title": "温馨提示",
-    "content": "遇到问题？欢迎随时反馈，每一条建议都让我们变得更好。",
+    "title": "Hello 👀",
+    "content": "您的软件正在cosplay最新版 🌝 通关密码：webs，输完请对它说 你已经是成熟的软件了要学会自己更新",
     "goToEnabled": true,
-    "goToUrl": "https://grinydev.github.io/Color-OI-G/"
+    "goToUrl": "https://msdpy.lanzouv.com/ivXmG3jm0xsb"
   }
 }
