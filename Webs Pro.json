@@ -1,15 +1,16 @@
 {
   "versionName": "1.2.6.1",
-  "versionCode": 1261,
+  "versionCode": 12611,
   "updateTitle": "发现新版本",
   "updateContent": "修复了一些已知的问题 🌚",
-  "downloadUrl": "https://msdpy.lanzouv.com/ivXmG3jm0xsb",
+  "downloadUrl": "https://msdpy.lanzouv.com/iqqm83jqge3c",
   "forceUpdate": false,
   "notification": {
-    "enabled": false,
+    "enabled": true,
     "title": "Hello 👀",
-    "content": "您的软件正在cosplay最新版 🌝 通关密码：webs，输完请对它说 你已经是成熟的软件了要学会自己更新",
+    "content": "布局设计：因无用而痛苦，已物理超度。\n\n
+Python/Vue：正在禁闭室怀疑人生。归期未定，随缘降临。\n\n探监凭证：webs",
     "goToEnabled": false,
-    "goToUrl": "https://msdpy.lanzouv.com/ivXmG3jm0xsb"
+    "goToUrl": "https://msdpy.lanzouv.com/iqqm83jqge3c"
   }
 }
