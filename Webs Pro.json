@@ -8,7 +8,10 @@
   "notification": {
     "enabled": true,
     "title": "小更新",
-    "content": "【布局设计】：无价值，已投胎、\n【Python/Vue】：小黑屋自闭ing，上线随机、\n\n探妄凭证：webs \n\n更新自愿→我的→设置",
+    "content": "▐ 布局设计：无价值，已投胎\n
+▐ Python/Vue：小黑屋自闭ing，上线随机\n
+--探妄凭证：webs \n
+--更新自愿→我的→设置",
     "goToEnabled": false,
     "goToUrl": "https://msdpy.lanzouv.com/iqqm83jqge3c"
   }
