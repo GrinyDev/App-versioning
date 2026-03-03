@@ -6,10 +6,10 @@
   "downloadUrl": "https://msdpy.lanzouv.com/ivXmG3jm0xsb",
   "forceUpdate": false,
   "notification": {
-    "enabled": true,
+    "enabled": false,
     "title": "Hello 👀",
     "content": "您的软件正在cosplay最新版 🌝 通关密码：webs，输完请对它说 你已经是成熟的软件了要学会自己更新",
-    "goToEnabled": true,
+    "goToEnabled": false,
     "goToUrl": "https://msdpy.lanzouv.com/ivXmG3jm0xsb"
   }
 }
