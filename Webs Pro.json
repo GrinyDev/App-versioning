@@ -6,9 +6,9 @@
   "downloadUrl": "https://msdpy.lanzouv.com/iqqm83jqge3c",
   "forceUpdate": false,
   "notification": {
-    "enabled": false,
+    "enabled": true,
     "title": "小更新",
-    "content": "▐ 布局设计：无价值，已投胎\n▐ Python/Vue：小黑屋自闭ing，上线随机\n--提取码：webs \n--更新自愿→我的→设置",
+    "content": "更新有啥需要的功能不或者恢复PHP和Python等🌚",
     "goToEnabled": false,
     "goToUrl": "https://msdpy.lanzouv.com/iqqm83jqge3c"
   }
